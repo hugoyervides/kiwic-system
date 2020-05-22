@@ -1,0 +1,172 @@
+Introduce el nombre del archivo a usar: 
+input.txt
+Line 1 : "good!" said holmes. "excellent!"
+Line 2 : dr. mortimer is a successful, elderly medical man
+Line 3 : oaxaca es la ciudad mas bella
+Line 4 : la guerra del golfo fue un error
+Line 5 : mr. sherlock holmes
+Line 6 : sherlock holmes who was usually very late in the mornings
+Line 7 : infrequent occasions when he was up all night
+Line 8 : i was seated at the breakfast table.
+Line 9 : i stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before.
+Line 10 : to james mortimer, m.r.c.s., from his friends of the c.c.h.,"
+Line 11 : "well, watson, what do you make of it?
+Deseas eliminar una linea? (y/n)
+y
+Introduce numero de linea
+3
+Line 1 : "good!" said holmes. "excellent!"
+Line 2 : dr. mortimer is a successful, elderly medical man
+Line 3 : la guerra del golfo fue un error
+Line 4 : mr. sherlock holmes
+Line 5 : sherlock holmes who was usually very late in the mornings
+Line 6 : infrequent occasions when he was up all night
+Line 7 : i was seated at the breakfast table.
+Line 8 : i stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before.
+Line 9 : to james mortimer, m.r.c.s., from his friends of the c.c.h.,"
+Line 10 : "well, watson, what do you make of it?
+Deseas eliminar una linea? (y/n)
+y
+Introduce numero de linea
+5
+Line 1 : "good!" said holmes. "excellent!"
+Line 2 : dr. mortimer is a successful, elderly medical man
+Line 3 : la guerra del golfo fue un error
+Line 4 : mr. sherlock holmes
+Line 5 : infrequent occasions when he was up all night
+Line 6 : i was seated at the breakfast table.
+Line 7 : i stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before.
+Line 8 : to james mortimer, m.r.c.s., from his friends of the c.c.h.,"
+Line 9 : "well, watson, what do you make of it?
+Deseas eliminar una linea? (y/n)
+n
+Quieres agregar stop words? (y/n)
+y
+Constructor default
+Introduce el nombre del archivo de las stopwords
+stopwords.txt
+Cambiar orden de ordenamiento? (y/n)
+y
+Line 1 :  you make it? "well, watson, what do
+Line 2 :  what do you make it? "well, watson,
+Line 3 :  watson, what do you make it? "well,
+Line 4 :  wasll night infrequent occasions he
+Line 5 :  was seatedt breakfast table. i
+Line 6 :  visitor had left behind him the night before. i stoodon hearth-rugnd picked up the stick our
+Line 7 :  up the stick our visitor had left behind him the night before. i stoodon hearth-rugnd picked
+Line 8 :  un error la guerra del golfo
+Line 9 :  to james mortimer, m.r.c.s., from friends c.c.h.,"
+Line 10 :  the stick our visitor had left behind him the night before. i stoodon hearth-rugnd picked up
+Line 11 :  the night before. i stoodon hearth-rugnd picked up the stick our visitor had left behind him
+Line 12 :  table. i was seatedt breakfast
+Line 13 :  successful, elderly medical man dr. mortimer
+Line 14 :  stoodon hearth-rugnd picked up the stick our visitor had left behind him the night before. i
+Line 15 :  stick our visitor had left behind him the night before. i stoodon hearth-rugnd picked up the
+Line 16 :  sherlock holmes mr.
+Line 17 :  seatedt breakfast table. i was
+Line 18 :  said holmes. "excellent!" "good!"
+Line 19 :  picked up the stick our visitor had left behind him the night before. i stoodon hearth-rugnd
+Line 20 :  our visitor had left behind him the night before. i stoodon hearth-rugnd picked up the stick
+Line 21 :  occasions he wasll night infrequent
+Line 22 :  night infrequent occasions he wasll
+Line 23 :  night before. i stoodon hearth-rugnd picked up the stick our visitor had left behind him the
+Line 24 :  mr. sherlock holmes
+Line 25 :  mortimer, m.r.c.s., from friends c.c.h.," to james
+Line 26 :  mortimer successful, elderly medical man dr.
+Line 27 :  medical man dr. mortimer successful, elderly
+Line 28 :  man dr. mortimer successful, elderly medical
+Line 29 :  make it? "well, watson, what do you
+Line 30 :  m.r.c.s., from friends c.c.h.," to james mortimer,
+Line 31 :  left behind him the night before. i stoodon hearth-rugnd picked up the stick our visitor had
+Line 32 :  la guerra del golfo un error
+Line 33 :  james mortimer, m.r.c.s., from friends c.c.h.," to
+Line 34 :  it? "well, watson, what do you make
+Line 35 :  infrequent occasions he wasll night
+Line 36 :  i was seatedt breakfast table.
+Line 37 :  i stoodon hearth-rugnd picked up the stick our visitor had left behind him the night before.
+Line 38 :  holmes. "excellent!" "good!" said
+Line 39 :  holmes mr. sherlock
+Line 40 :  him the night before. i stoodon hearth-rugnd picked up the stick our visitor had left behind
+Line 41 :  hearth-rugnd picked up the stick our visitor had left behind him the night before. i stoodon
+Line 42 :  he wasll night infrequent occasions
+Line 43 :  had left behind him the night before. i stoodon hearth-rugnd picked up the stick our visitor
+Line 44 :  guerra del golfo un error la
+Line 45 :  golfo un error la guerra del
+Line 46 :  from friends c.c.h.," to james mortimer, m.r.c.s.,
+Line 47 :  friends c.c.h.," to james mortimer, m.r.c.s., from
+Line 48 :  error la guerra del golfo un
+Line 49 :  elderly medical man dr. mortimer successful,
+Line 50 :  dr. mortimer successful, elderly medical man
+Line 51 :  do you make it? "well, watson, what
+Line 52 :  del golfo un error la guerra
+Line 53 :  c.c.h.," to james mortimer, m.r.c.s., from friends
+Line 54 :  breakfast table. i was seatedt
+Line 55 :  behind him the night before. i stoodon hearth-rugnd picked up the stick our visitor had left
+Line 56 :  before. i stoodon hearth-rugnd picked up the stick our visitor had left behind him the night
+Line 57 :  "well, watson, what do you make it?
+Line 58 :  "good!" said holmes. "excellent!"
+Line 59 :  "excellent!" "good!" said holmes.
+Deseas eliminar una linea? (y/n)
+y
+Introduce numero de linea
+25
+Line 1 :  you make it? "well, watson, what do
+Line 2 :  what do you make it? "well, watson,
+Line 3 :  watson, what do you make it? "well,
+Line 4 :  wasll night infrequent occasions he
+Line 5 :  was seatedt breakfast table. i
+Line 6 :  visitor had left behind him the night before. i stoodon hearth-rugnd picked up the stick our
+Line 7 :  up the stick our visitor had left behind him the night before. i stoodon hearth-rugnd picked
+Line 8 :  un error la guerra del golfo
+Line 9 :  to james mortimer, m.r.c.s., from friends c.c.h.,"
+Line 10 :  the stick our visitor had left behind him the night before. i stoodon hearth-rugnd picked up
+Line 11 :  the night before. i stoodon hearth-rugnd picked up the stick our visitor had left behind him
+Line 12 :  table. i was seatedt breakfast
+Line 13 :  successful, elderly medical man dr. mortimer
+Line 14 :  stoodon hearth-rugnd picked up the stick our visitor had left behind him the night before. i
+Line 15 :  stick our visitor had left behind him the night before. i stoodon hearth-rugnd picked up the
+Line 16 :  sherlock holmes mr.
+Line 17 :  seatedt breakfast table. i was
+Line 18 :  said holmes. "excellent!" "good!"
+Line 19 :  picked up the stick our visitor had left behind him the night before. i stoodon hearth-rugnd
+Line 20 :  our visitor had left behind him the night before. i stoodon hearth-rugnd picked up the stick
+Line 21 :  occasions he wasll night infrequent
+Line 22 :  night infrequent occasions he wasll
+Line 23 :  night before. i stoodon hearth-rugnd picked up the stick our visitor had left behind him the
+Line 24 :  mr. sherlock holmes
+Line 25 :  mortimer successful, elderly medical man dr.
+Line 26 :  medical man dr. mortimer successful, elderly
+Line 27 :  man dr. mortimer successful, elderly medical
+Line 28 :  make it? "well, watson, what do you
+Line 29 :  m.r.c.s., from friends c.c.h.," to james mortimer,
+Line 30 :  left behind him the night before. i stoodon hearth-rugnd picked up the stick our visitor had
+Line 31 :  la guerra del golfo un error
+Line 32 :  james mortimer, m.r.c.s., from friends c.c.h.," to
+Line 33 :  it? "well, watson, what do you make
+Line 34 :  infrequent occasions he wasll night
+Line 35 :  i was seatedt breakfast table.
+Line 36 :  i stoodon hearth-rugnd picked up the stick our visitor had left behind him the night before.
+Line 37 :  holmes. "excellent!" "good!" said
+Line 38 :  holmes mr. sherlock
+Line 39 :  him the night before. i stoodon hearth-rugnd picked up the stick our visitor had left behind
+Line 40 :  hearth-rugnd picked up the stick our visitor had left behind him the night before. i stoodon
+Line 41 :  he wasll night infrequent occasions
+Line 42 :  had left behind him the night before. i stoodon hearth-rugnd picked up the stick our visitor
+Line 43 :  guerra del golfo un error la
+Line 44 :  golfo un error la guerra del
+Line 45 :  from friends c.c.h.," to james mortimer, m.r.c.s.,
+Line 46 :  friends c.c.h.," to james mortimer, m.r.c.s., from
+Line 47 :  error la guerra del golfo un
+Line 48 :  elderly medical man dr. mortimer successful,
+Line 49 :  dr. mortimer successful, elderly medical man
+Line 50 :  do you make it? "well, watson, what
+Line 51 :  del golfo un error la guerra
+Line 52 :  c.c.h.," to james mortimer, m.r.c.s., from friends
+Line 53 :  breakfast table. i was seatedt
+Line 54 :  behind him the night before. i stoodon hearth-rugnd picked up the stick our visitor had left
+Line 55 :  before. i stoodon hearth-rugnd picked up the stick our visitor had left behind him the night
+Line 56 :  "well, watson, what do you make it?
+Line 57 :  "good!" said holmes. "excellent!"
+Line 58 :  "excellent!" "good!" said holmes.
+Deseas eliminar una linea? (y/n)
+n
